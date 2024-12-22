@@ -1,0 +1,11 @@
+{
+  "name": "crowdfunding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./style.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
